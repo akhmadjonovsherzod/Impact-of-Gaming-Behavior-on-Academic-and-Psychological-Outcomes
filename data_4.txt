@@ -1,0 +1,56 @@
+The dataset is a synthetic dataset representing individuals’ gaming behavior, lifestyle habits, psychological condition, social environment, and physical health indicators.
+
+The dataset contains variables grouped into six main domains.
+
+Demographic Features
+age — Age of the participant
+gender — Gender category
+income — Monthly income estimate
+
+Gaming Behavior Features
+daily_gaming_hours — Average daily gaming time
+weekly_sessions — Number of weekly gaming sessions
+years_gaming — Total years of gaming experience
+weekend_gaming_hours — Weekend gaming duration
+multiplayer_ratio — Fraction of multiplayer gaming
+violent_games_ratio — Fraction of violent games played
+mobile_gaming_ratio — Fraction of mobile gaming
+night_gaming_ratio — Proportion of night-time gaming
+competitive_rank — Competitive skill ranking
+esports_interest — Interest in esports participation
+streaming_hours — Weekly game streaming hours
+microtransactios_spending— Monthly in-game spending
+headset_usage— Whether headset is used
+
+Psychological Health Features
+stress_level — Perceived stress score
+anxiety_score — Anxiety assessment score
+depression_score — Depression score
+addiction_level — Gaming addiction indicator
+loneliness_score — Loneliness index
+aggression_score — Aggression tendency score
+happiness_score — Overall happiness level
+
+Social Environment Features
+social_interaction_score — Social activity index
+relationship_satisfaction — Relationship quality score
+friends_gaming_count — Number of gaming friends
+online_friends — Online social connections
+toxic_exposure — Exposure to toxic communities
+parental_supervision — Parental monitoring score
+
+Lifestyle Features
+sleep_hours — Average sleep duration
+exercise_hours — Weekly exercise hours
+caffeine_intake — Daily caffeine consumption
+screen_time_total — Total daily screen time
+internet_quality — Internet connectivity quality
+
+Physical Health Indicators
+bmi — Body mass index
+eye_strain_score — Eye strain severity
+back_pain_score — Back pain severity
+
+Productivity / Performance Indicators
+academic_performance — Academic score
+work_productivity — Workplace productivity score
